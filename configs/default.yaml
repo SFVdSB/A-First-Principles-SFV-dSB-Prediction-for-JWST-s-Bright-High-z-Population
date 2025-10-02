@@ -1,0 +1,35 @@
+cosmology:
+  ns: 0.965
+  sigma8: 0.811
+  Omega_m0: 0.315
+  Omega_b0: 0.049
+  h: 0.674
+
+bounce:
+  v: 4.2e-05
+  vphi: 9.0e-05
+  gamma_k: 0.595
+  bounce_driver: 2-field_BounceDetails_v4f_v2.py
+  background_profile: background_profile.csv
+
+power:
+  kcut_override: null
+  kmin: 1.0e-4
+  kmax: 1.0e+2
+  nk: 600
+
+halo:
+  z: [15, 10]
+  mmin: 1.0e7
+  mmax: 3.0e13
+  nm: 220
+
+uvlf:
+  schechter_csv: null
+  Mstar: -20.9
+  phistar: 1.0e-4
+  alpha: -2.1
+  duty: 1.0
+
+paths:
+  outdir: outputs
