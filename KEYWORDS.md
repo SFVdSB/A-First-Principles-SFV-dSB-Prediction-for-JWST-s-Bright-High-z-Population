@@ -1,0 +1,30 @@
+- astro-ph
+- cosmology
+- structure-formation
+- JWST
+- high-redshift
+- z>10
+- UVLF
+- luminosity-function
+- halo-mass-function
+- Sheth-Tormen
+- Eisenstein-Hu
+- matter power spectrum
+- bounce cosmology
+- SFV
+- dSB
+- two-field bounce
+- false vacuum
+- wall radius
+- R0
+- wall width
+- weff
+- k_cut
+- sigma8
+- vphi/v
+- early galaxy formation
+- bright-end tension
+- abundance matching
+- Planck 2018
+- ΛCDM extension
+- large-scale power boost

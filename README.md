@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22661714/README.md)
 # SFV/dSB Bounce → Power → Halos → UVLF (JWST)  
 
 This repository contains a **first-principles** pipeline that maps **two‑field bounce** parameters in the **SFV/dSB** model to:
@@ -32,7 +31,7 @@ It directly anchors the enhancement to large‑scale power in terms of bounce ou
 ├── .github/workflows/ci.yml             # lint + smoke run
 ├── .editorconfig, .ruff.toml, .gitignore
 ├── KEYWORDS.md                          # searchable keywords for this repo
-
+└── A_First_Principles_SFV_dSB_Prediction_for_JWST_s_Bright_High_z_Population.pdf
 ```
 
 ---

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# OS
+.DS_Store
+
+# Outputs
+outputs/
+power_spectrum_sfv.csv
+power_spectrum_sfv.png
+cumulative_halo_abundance.png
+abundance_ratio.png
+halo_abundance_SFV_vs_LCDM.csv
+uvlf_pred_*.csv
+uvlf_*_comparison.png
+uvlf_*_ratio.png
+wall_estimate_from_background.png
